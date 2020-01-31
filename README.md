@@ -1,0 +1,2 @@
+# Mineria
+para la clase
